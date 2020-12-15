@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AirTickets2</string>
+    <string-array name="cities">
+        <item>Иркутск</item>
+        <item>Казань</item>
+        <item>Новосибирск</item>
+        <item>Красноярск</item>
+        <item>Сыктывкар</item>
+        <item>Омск</item>
+        <item>Кызыл</item>
+    </string-array>
+
+</resources>
